@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TIANYI YANG",
+"productVersion": "1.0",
+"dataUrl": "WEEK4.data.unityweb",
+"wasmCodeUrl": "WEEK4.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEEK4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
